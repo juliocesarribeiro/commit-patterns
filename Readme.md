@@ -103,7 +103,7 @@
     </tr>
     <tr>
       <td><strong>Novo recurso</strong></td>
-      <td>✨ :sparkles:</td>
+      <td>✨ : sparkles :</td>
     </tr>
     <tr>
       <td><strong>Lista de ideias (tasks)</strong></td>
